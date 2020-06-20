@@ -7,38 +7,38 @@ This is an Elearning Website with Node-Js.
 </p>
 
 <p align="center">
-  <img width="70%" src="Classes.png">
+  <img width="70%" src="Classes.png"><br>
   <i>List of all classes</i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Form.png">
+  <img width="70%" src="Form.png"><br>
   <i>Form for Signing Up</i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Registration for Class.png">
+  <img width="70%" src="Registration for Class.png"><br>
   <i>Registration page for a class</i>
   <i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Students Forum.png">
+  <img width="70%" src="Students Forum.png"><br>
   <i>Students My Classes Page</i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Instructors Forum.png">
+  <img width="70%" src="Instructors Forum.png"><br>
   <i>Instructors My classes Page</i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Instructors Accesibility.png">
+  <img width="70%" src="Instructors Accesibility.png"><br>
   <i>Adding lessons - Instructors Accessibility</i>
 </p>
 
 <p align="center">
-  <img width="70%" src="Database.png">
+  <img width="70%" src="Database.png"><br>
   <i>Database updation dynamically(Mongodb)<i>
 </p>
 
