@@ -3,7 +3,7 @@
 This is an Elearning Website with Node-Js.
 
 <p align="center">
-  <img width="70%" src="https://github.com/Vijayaraghavan-VR/Elearning-Website-/blob/master/Screenshot (337).png">
+  <img width="70%" src="https://github.com/Vijayaraghavan-VR/Elearning-Website-/blob/master/Screenshot(337).png">
 </p>
 
 
